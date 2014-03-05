@@ -1,4 +1,11 @@
 #################
+## Aura Bundle
+#################
+
+bundle/mariadb-5.5.36-win32/data/*.err
+bundle/mariadb-5.5.36-win32/data/*.pid
+
+#################
 ## Eclipse
 #################
 
