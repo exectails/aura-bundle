@@ -49,3 +49,4 @@ start start-database
 ping -n 4 127.0.0.1 > nul
 start start-login
 start start-channel
+start start-web
