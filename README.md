@@ -3,15 +3,15 @@ Aura Bundle
 
 Aura Bundle is a combination of software and file replacements for [Aura](https://github.com/aura-project/aura),
 giving it the ability to run without additional setups (aside
-from compiling). It includes a portable MySQL server (MariaDB),
-a database management software (HeidiSQL), and soon a web server.
+from compiling). It includes a portable MySQL server (MariaDB) and
+a database management software (HeidiSQL).
 
 Usage
 ---------
 Download Aura, compile it, drop in Bundle, done!
 
 Aura can be started as usual, with the start-server.bat. Unlike before,
-the database server will start first, followed by Login and Channel.
+the database server will start first, followed by Login, Channel, and Web.
 
 Notes
 ---------
